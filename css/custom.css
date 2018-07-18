@@ -1,0 +1,28 @@
+/*
+
+1. Add your custom Css styles below
+2. Place the this code in your template:
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+#logo1 {
+    height: 300px;
+}
+
+#logo2 {
+    height: 600px;
+}
+#logo3 {
+  height: 435px;
+}
+#logo4 {
+  height: 318px;
+}
+#blak {
+  color: black;
+}
+.lift{
+  padding-top: 40px;
+  padding-bottom: 0px;
+}
